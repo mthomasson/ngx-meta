@@ -2,11 +2,16 @@
 
 Dynamic page title &amp; meta tags generator for **Angular**
 
-[![CircleCI](https://circleci.com/gh/fulls1z3/ngx-meta.svg?style=shield)](https://circleci.com/gh/fulls1z3/ngx-meta)
-[![coverage](https://codecov.io/github/fulls1z3/ngx-meta/coverage.svg?branch=master)](https://codecov.io/gh/fulls1z3/ngx-meta)
-[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-[![Greenkeeper badge](https://badges.greenkeeper.io/fulls1z3/ngx-meta.svg)](https://greenkeeper.io/)
+[![CircleCI](https://circleci.com/gh/fulls1z3/ngx-meta.svg?style=shield)](https://circleci.com/gh/fulls1z3/ngx-meta)
+
+[![coverage](https://codecov.io/github/fulls1z3/ngx-meta/coverage.svg?branch=master)](https://codecov.io/gh/fulls1z3/ngx-meta)
+
+[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/fulls1z3/ngx-meta.svg)](https://greenkeeper.io/)
+
 [![Angular Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
 
 > Please support this project by simply putting a Github star. Share this library with friends on Twitter and everywhere else you can.
@@ -22,8 +27,8 @@ configuration.
 
 #### NOTICE
 
-> This _[7.x.x] branch_ is intented to work with `Angular v7.x.x`. If you're developing on a later release of **Angular**
-> than `v7.x.x`, then you should probably choose the appropriate version of this library by visiting the _[master] branch_.
+> This _[master] branch_ is intented to work with `Angular v8.x.x`. If you're developing on a older release of **Angular**
+> than `v8.x.x`, then you should probably choose the appropriate version of this library by visiting the _[7.x.x] or [6.x.x] (or lower) branches_.
 
 ## Packages:
 
@@ -56,7 +61,8 @@ The MIT License (MIT)
 Copyright (c) 2018 [Burak Tasci]
 
 [master]: https://github.com/fulls1z3/ngx-meta/core/tree/master
-[7.x.x]: https://github.com/fulls1z3/ngx-meta/core/tree/7.x.x
+[7.x.x]: https://github.com/fulls1z3/ngx-meta/tree/7.x.x
+[6.x.x]: https://github.com/fulls1z3/ngx-meta/tree/6.x.x
 [@ngx-translate/core]: https://github.com/ngx-translate/core
 [ng-seed/universal]: https://github.com/ng-seed/universal
 [fulls1z3/example-app]: https://github.com/fulls1z3/example-app
